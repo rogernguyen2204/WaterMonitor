@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For DallasTemperature
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+My_Sensor		KEYWORD1
+DisplayOn5110 		KEYWORD1
+Pages_Struct		KEYWORD1
+IN_OUT_SD		KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Setup_Sensor			KEYWORD2
+Run_Sensor			KEYWORD2
+Get_Data_From_Sensor		KEYWORD2
+Main_Pages			KEYWORD2
+Result_Pages			KEYWORD2
+Lastest_Result_Pages		KEYWORD2
+SaveToSdcard_Pages		KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
